@@ -1,1 +1,1 @@
-# Timp de efectuare - 4 ore.
+# Timp pentru efectuare - 4 ore.
